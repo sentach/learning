@@ -1,4 +1,4 @@
-pub fn sumar(numero: i64) -> usize {
+pub fn sumar(mut numero: i64) -> i64 {
     0
 }
 
