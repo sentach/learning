@@ -35,4 +35,10 @@ mod tests {
         let result = sumar(493193);
         assert_eq!(result, 2);
     }
+
+    #[test]
+    fn it_works6() {
+        let result = sumar(10);
+        assert_eq!(result, 1);
+    }
 }
